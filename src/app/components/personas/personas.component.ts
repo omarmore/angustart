@@ -4,12 +4,10 @@ import { Component, OnInit } from '@angular/core';
   selector: 'app-personas',
   templateUrl: './personas.component.html',
   styleUrls: ['./personas.component.css']
-})
-export class PersonasComponent implements OnInit {
+})  
+export class PersonasComponent  {
 
   constructor() { }
 
-  ngOnInit() {
-  }
 
 }
